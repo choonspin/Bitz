@@ -1,6 +1,24 @@
-# Bitz
+# <img src="components/ui/BitzLogo.svg" alt="Bitz Logo" width="30" height="30" /> Bitz
 
 make your to-dos into bitz
+
+Bitz is a cross-platform desktop application built with [Electron](https://www.electronjs.org/) and [Next.js](https://nextjs.org/), designed to help you manage your tasks and build positive habits efficiently.
+
+## Platform Support
+
+Bitz is built to run on the following platforms:
+*   macOS (Intel and Apple Silicon)
+*   Windows
+*   Linux
+
+Build scripts are configured to generate installers/packages for these platforms (DMG for macOS, NSIS for Windows, AppImage for Linux).
+
+## Key Technologies
+
+*   **Framework:** Electron
+*   **UI:** Next.js / React
+*   **Package Manager:** pnpm
+*   **Build Tool (Electron):** electron-builder
 
 ## Prerequisites
 
