@@ -83,3 +83,6 @@ Here is a list of the primary scripts available in `package.json`:
 *   `pnpm run start:next`: Starts the Next.js production server (after running `build:next`).
 *   `pnpm run lint`: Lints the Next.js project.
 
+## Downloads
+
+You can download the latest version of Bitz for macOS, Windows, and Linux from our [GitHub Releases page](https://github.com/choonspin/Bitz/releases).
