@@ -82,6 +82,13 @@
   "build": {
     "appId": "com.example.habit-tracker",
     "productName": "Bitz",
+    "publish": [
+      {
+        "provider": "github",
+        "owner": "choonspin",
+        "repo": "Bitz"
+      }
+    ],
     "directories": {
       "output": "dist",
       "buildResources": "build"
