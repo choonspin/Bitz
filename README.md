@@ -1,4 +1,4 @@
-# <img src="components/ui/BitzLogo.svg" alt="Bitz Logo" width="30" height="30" /> Bitz
+# <img src="components/Bitz.svg" alt="Bitz Logo" width="30" height="30" /> Bitz
 
 make your to-dos into bitz
 

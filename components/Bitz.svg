@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+  width="1024"
+  height="1024"
+  viewBox="0 0 100 100"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+  class="mr-2"
+>
+  <!-- Outer circle -->
+  <circle cx="50" cy="50" r="45" stroke="#10B981" stroke-width="6" />
+
+  <!-- Progress arc -->
+  <path d="M50 5 A45 45 0 0 1 95 50" stroke="#059669" stroke-width="10" stroke-linecap="round" />
+
+  <!-- Inner circle with checkmark -->
+  <circle cx="50" cy="50" r="30" fill="#10B981" />
+
+  <!-- Checkmark -->
+  <path d="M35 50 L45 60 L65 40" stroke="white" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
+
+  <!-- Small circles representing habit tracking -->
+  <circle cx="50" cy="15" r="4" fill="#059669" />
+  <circle cx="75" cy="25" r="4" fill="#059669" />
+  <circle cx="85" cy="50" r="4" fill="#059669" />
+</svg>
