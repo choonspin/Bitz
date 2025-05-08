@@ -1,8 +1,8 @@
 {
-  "name": "my-v0-project",
+  "name": "bitz",
   "version": "0.1.0",
   "description": "make your to-dos into bitz",
-  "author": "bitz",
+  "author": "choonspin",
   "private": true,
   "main": "electron.js",
   "scripts": {
