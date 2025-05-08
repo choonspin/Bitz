@@ -4,7 +4,8 @@ make your to-dos into habitz
 
 Here's a glimpse of the Bitz main interface:
 
-![Alt text for the screenshot](public/Bitz demo.png)
+![Alt text for the screenshot](public/Bitzlanding.png)
+
 
 Bitz is a cross-platform desktop application built with [Electron](https://www.electronjs.org/) and [Next.js](https://nextjs.org/), designed to help you manage your tasks and build positive habits efficiently.
 
